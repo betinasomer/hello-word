@@ -1,0 +1,16 @@
+
+1 - criar repositório. (feito)
+2 - criar branch (feito) 
+3 - criação Pull request
+4 - aprovação do pull request
+5 - upload file (commit) (feito)
+
+
+.
+Gist?
+
+Issues?
+
+
+Tag: GitHub Desktop não suporta
+Assinatura GPG de commit: GitHub Desktop não suporta
