@@ -1,10 +1,16 @@
 
-1 - criar repositÛrio. (feito)
+1 - criar reposit√≥rio. (feito)
 2 - criar branch (feito) 
-3 - criaÁ„o Pull request
-4 - aprovaÁ„o do pull request
+3 - cria√ß√£o Pull request
+4 - aprova√ß√£o do pull request
 5 - upload file (commit) (feito)
 
+Renan criar novo repositorio para o projeto da calculadora.
+Betina Fork repositorio calculadora renan.
+Criar branch feature; Classe subtra√ß√£o;
+Commit na minha branch feature; 
+
+Descobrir sobre issues;
 
 .
 Gist?
@@ -12,5 +18,5 @@ Gist?
 Issues?
 
 
-Tag: GitHub Desktop n„o suporta
-Assinatura GPG de commit: GitHub Desktop n„o suporta
+Tag: GitHub Desktop n√£o suporta
+Assinatura GPG de commit: GitHub Desktop n√£o suporta
